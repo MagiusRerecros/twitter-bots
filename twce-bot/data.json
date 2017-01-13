@@ -1,0 +1,174 @@
+{
+  "event": "TWCE",
+  "firstTemplate": "#Event is beginning! Check it out over at http://www.twitch.tv/TwitchUsername, hosted by @TwitterUsername!",
+  "thanksTemplate": ".@TwitterUsername has finished their shift for #Event. Give them a follow over at http://www.twitch.tv/TwitchUsername",
+  "standardTemplate": "#Event is moving over to http://www.twitch.tv/TwitchUsername, hosted by @TwitterUsername! Go check it out!",
+  "lastTemplate": "#Event is drawing to a close. Let's finish off the maration with @TwitterUsername, over at http://www.twitch.tv/TwitchUsername",
+  "list": [
+    {
+      "time": "2016-12-15 14:00",
+      "twitterUser": "@yerbondTV",
+      "twitchUser": "Yerbond"
+    },
+    {
+      "time": "2016-12-15 19:00",
+      "twitterUser": "@MagicD250",
+      "twitchUser": "MagicD250"
+    },
+    {
+      "time": "2016-12-15 21:00",
+      "twitterUser": "@Cstodd89",
+      "twitchUser": "MANUSbrett"
+    },
+    {
+      "time": "2016-12-16 00:00",
+      "twitterUser": "@Stimpy789",
+      "twitchUser": "Stimpy789"
+    },
+    {
+      "time": "2016-12-16 03:00",
+      "twitterUser": "@PCQinvestigamer",
+      "twitchUser": "PantalonesConQueso"
+    },
+    {
+      "time": "2016-12-16 05:00",
+      "twitterUser": "@odie422",
+      "twitchUser": "TheStig422"
+    },
+    {
+      "time": "2016-12-16 09:00",
+      "twitterUser": "@UFC345",
+      "twitchUser": "UFC345"
+    },
+    {
+      "time": "2016-12-16 14:00",
+      "twitterUser": "@KingWompis",
+      "twitchUser": "KingWompis"
+    },
+    {
+      "time": "2016-12-16 16:00",
+      "twitterUser": "@Katemonsterful",
+      "twitchUser": "Katemonsterful"
+    },
+    {
+      "time": "2016-12-16 17:00",
+      "twitterUser": "@KOHPelord",
+      "twitchUser": "KOHPelord"
+    },
+    {
+      "time": "2016-12-16 20:00",
+      "twitterUser": "@R3dFriday",
+      "twitchUser": "R3dFriday"
+    },
+    {
+      "time": "2016-12-17 00:00",
+      "twitterUser": "@CrazyRedReploid",
+      "twitchUser": "CrazyRedReploid"
+    },
+    {
+      "time": "2016-12-17 03:00",
+      "twitterUser": "@Sky_Breather",
+      "twitchUser": "Sky_Breather"
+    },
+    {
+      "time": "2016-12-17 05:00",
+      "twitterUser": "@SChronoTwitr",
+      "twitchUser": "ChronologicalGamer"
+    },
+    {
+      "time": "2016-12-17 08:00",
+      "twitterUser": "@Hype9112004",
+      "twitchUser": "Hype9112004"
+    },
+    {
+      "time": "2016-12-17 11:00",
+      "twitterUser": "@GraveyardGreg",
+      "twitchUser": "GamingGuardians"
+    },
+    {
+      "time": "2016-12-17 13:00",
+      "twitterUser": "@TPGCraft",
+      "twitchUser": "MoistTowelette3"
+    },
+    {
+      "time": "2016-12-17 17:00",
+      "twitterUser": "@j10adn",
+      "twitchUser": "j10adn"
+    },
+    {
+      "time": "2016-12-17 21:00",
+      "twitterUser": "@GhostsGameRoom",
+      "twitchUser": "Ghostxtigerv2"
+    },
+    {
+      "time": "2016-12-18 00:00",
+      "twitterUser": "@PrincezzxDiana",
+      "twitchUser": "PrincezzxDiana"
+    },
+    {
+      "time": "2016-12-18 01:00",
+      "twitterUser": "@Sunrose12",
+      "twitchUser": "Sunrose12"
+    },
+    {
+      "time": "2016-12-18 06:00",
+      "twitterUser": "@FD907_Valor",
+      "twitchUser": "FD907"
+    },
+    {
+      "time": "2016-12-18 10:00",
+      "twitterUser": "@Corkin98",
+      "twitchUser": "CorkinKid"
+    },
+    {
+      "time": "2016-12-18 16:00",
+      "twitterUser": "@19JoJolicious95",
+      "twitchUser": "19JoJolicious95"
+    },
+    {
+      "time": "2016-12-18 19:00",
+      "twitterUser": "@OverHunter1",
+      "twitchUser": "OverHunter1"
+    },
+    {
+      "time": "2016-12-18 22:00",
+      "twitterUser": "@Desocietas",
+      "twitchUser": "Desocietas"
+    },
+    {
+      "time": "2016-12-19 00:00",
+      "twitterUser": "@Onryosan",
+      "twitchUser": "Onryosan"
+    },
+    {
+      "time": "2016-12-19 02:00",
+      "twitterUser": "@beer_bender",
+      "twitchUser": "TheDrunkSatan"
+    },
+    {
+      "time": "2016-12-19 05:00",
+      "twitterUser": "@Desocietas",
+      "twitchUser": "Desocietas"
+    },
+    {
+      "time": "2016-12-19 15:00",
+      "twitterUser": "@PCQinvestigamer",
+      "twitchUser": "PantalonesConQueso"
+    },
+    {
+      "time": "2016-12-19 17:00",
+      "twitterUser": "@Madeen4",
+      "twitchUser": "Madeen4"
+    },
+    {
+      "time": "2016-12-19 19:00",
+      "twitterUser": "@Veggs",
+      "twitchUser": "Veggs"
+    },
+    {
+      "time": "2016-12-19 23:00",
+      "twitterUser": "@HeyOT6",
+      "twitchUser": "HeyOT6"
+    }
+  ]
+}

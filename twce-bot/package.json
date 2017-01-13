@@ -1,0 +1,27 @@
+{
+  "name": "twce-twitter-bot",
+  "version": "1.0.0",
+  "description": "Retweet bot for the TWCE Event, hosted by Top Percentage Gaming",
+  "main": "twcebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TPG",
+    "Twitter",
+    "Top",
+    "Percentage",
+    "Gaming",
+    "TWCE",
+    "The",
+    "Worst",
+    "Christmas",
+    "Ever"
+  ],
+  "author": "Magius Rerecros",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "twit": "^2.2.4"
+  }
+}
