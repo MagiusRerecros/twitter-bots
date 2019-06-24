@@ -8,4 +8,4 @@ Various Twitter bots written using the Twit module for NodeJS.
 4. Run the bot using NodeJS
 
 ## Special Thanks
-* [Daniel Shiffman](https://github.com/shiffman "Shiffman's GitHub") - Daniel put together an excellent series of tutorial videos for using Twit and NodeJS to create twitter bots. That series can be found on YouTube [here](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV "Shiffman's Twitter Bot playlist").
+* [Daniel Shiffman](https://github.com/shiffman "Shiffman's GitHub") - Daniel put together an excellent series of tutorial videos for explaining how to use Twit and NodeJS to create twitter bots. That series can be found on YouTube [here](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV "Shiffman's Twitter Bot playlist").
