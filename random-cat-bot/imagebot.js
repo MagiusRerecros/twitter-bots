@@ -1,4 +1,4 @@
-console.log('Starting Cat image bot');
+console.log('Starting Cat image bot...');
 
 var fs = require('fs');
 var request = require('request');
